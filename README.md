@@ -25,9 +25,9 @@ Projenin yerel makinenizde çalışması için aşağıdaki araçların yüklü 
 
 ## 🛠 Kurulum
 
-1. Depoyu klonlayın:
+1. Repoyu klonlayın:
 ```bash
-git clone <repository-url>
+git clone https://github.com/uyarhamit/rodinya-case.git
 cd rodinya-case
 ```
 
